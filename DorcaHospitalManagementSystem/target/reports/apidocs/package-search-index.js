@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.dorca.beans"},{"l":"com.dorca.ui"},{"l":"com.mycompany.dorcahospitalmanagementsystem"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.dorcahospitalmanagementsystem","l":"DorcaHospitalManagementSystem"},{"p":"com.dorca.beans","l":"PatientBean"},{"p":"com.dorca.ui","l":"PatientRegistrationForm"}];updateSearchResults();
