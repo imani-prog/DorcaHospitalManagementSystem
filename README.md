@@ -23,6 +23,7 @@ JDBC: For database connectivity and management.
 MySQL: The database system used to store hospital data.
 
 Swing: For building the graphical user interface (GUI).
+Other features to be included as time progress.
 
 Installation
 Clone the repository:
